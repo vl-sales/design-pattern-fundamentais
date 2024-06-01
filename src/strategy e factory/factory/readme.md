@@ -20,5 +20,5 @@ npx tsc -p .
 ```
 Em seguida
 ```bash
-node dist/factory/main.js
+node dist/strategy\ e\ factory/main.js
 ```
